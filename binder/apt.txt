@@ -1,4 +1,0 @@
-vim
-emacs
-nano
-alpine-pico
