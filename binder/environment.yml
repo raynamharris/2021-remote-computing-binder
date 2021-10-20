@@ -5,3 +5,7 @@ channels:
 dependencies:
     - r-base
     - csvtk==0.23.0
+    - r-irkernel=1.1
+    - r-devtools
+    - r-tidyverse
+    - r-cowplot
